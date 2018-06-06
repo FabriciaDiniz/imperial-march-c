@@ -1,3 +1,4 @@
+//Programa feito por Fabrícia Diniz
 #include<stdio.h>
 #include<windows.h>
 
@@ -25,7 +26,6 @@ main()
 	Beep(a, 500);
 	Beep(f, 350);
 	Beep(cH, 150);
-	
 	Beep(a, 500);
 	Beep(f, 350);
 	Beep(cH, 150);
@@ -36,7 +36,6 @@ main()
 	Beep(eH, 500);    
 	Beep(fH, 350);
 	Beep(cH, 150);
-	
 	Beep(gS, 500);
 	Beep(f, 350);
 	Beep(cH, 150);
@@ -52,7 +51,7 @@ main()
 	Beep(fSH, 125);
 	Beep(fH, 125);    
 	Beep(fSH, 250);
-	Beep(0,250);
+	Beep(0,350);
 	Beep(aS, 250);    
 	Beep(dSH, 500);  
 	Beep(dH, 250);  
@@ -61,7 +60,7 @@ main()
 	Beep(cH, 125);  
 	Beep(b, 125);  
 	Beep(cH, 250);      
-	Beep(0,250);
+	Beep(0,350);
 	Beep(f, 125);  
 	Beep(gS, 500);  
 	Beep(f, 375);  
